@@ -1,5 +1,5 @@
 
-import BoardsDetail from "./pages/Boards/_id"
+import BoardsDetail from "@/pages/Boards/_id"
 
 
 function App() {
